@@ -1,2 +1,4 @@
-# trelloyes
-trelloyes dashboard
+# Application Trelloyes
+
+static design of Trelloyes dashboard using React Components
+
