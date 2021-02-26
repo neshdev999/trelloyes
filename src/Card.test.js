@@ -9,7 +9,6 @@ describe('First List cards renders correctly', ()=>{
 
     it('card renders without crashing', () =>{
         const div = document.createElement('div');
-        const item = 'a';
         const currentStore = Store;
         const currentCardIds = ['a', 'b', 'e', 'f', 'g', 'j', 'l', 'm'];
 
